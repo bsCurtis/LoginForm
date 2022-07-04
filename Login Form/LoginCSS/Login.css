@@ -1,0 +1,32 @@
+body{
+	background-image: url("C:/Users/MIKE/Desktop/Login Form/Dope.png");
+	text-align: center;
+	text-shadow: 2px 2px black;
+	margin-top: 30px;
+	font-family: 'Lora', serif;
+	color: cornflowerblue;
+
+	
+}
+
+#inline{
+	display: inline-flex;
+}
+
+input{
+	display: block;
+	width: 500px;
+	margin: 15px  auto;
+	padding: 5px 10px;
+	font-family: inherit;
+
+}
+
+button{
+	margin: 0px 20px;
+	padding: 5px 10px;
+	font-family: inherit;
+	border-color: rebeccapurple;
+	border: 5px 5px;
+	border-radius: 40%;
+}
